@@ -5,8 +5,8 @@
 	"unity": "2022.3",
 	"description": "Localizes VRChat SDK UI based on the Unity Editor language.",
 	"author": {
-		"name": "natade-jp",
-		"url": "https://github.com/natade-jp"
+		"name": "natade",
+		"url": "https://github.com/natade0"
 	},
 	"license": "MIT"
 }

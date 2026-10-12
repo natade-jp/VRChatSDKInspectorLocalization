@@ -23,7 +23,7 @@ World関連では、VRC Scene DescriptorやUdon BehaviourなどのInspector、SD
 
 ただし、すべてのUIを網羅しているわけではありません。一部のダイアログや入力欄、動的に生成される文字列などは、英語のまま表示される場合があります。
 
-翻訳されていないUIや追加してほしい翻訳がある場合は、[GitHub Issues](https://github.com/natade-jp/VRChatSdkUiLocalizer/issues) または [X](https://x.com/natadea) からご連絡ください。
+翻訳されていないUIや追加してほしい翻訳がある場合は、[GitHub Issues](https://github.com/natade0/VRChatSdkUiLocalizer/issues) または [X](https://x.com/natadea) からご連絡ください。
 
 ## Installation
 
@@ -32,7 +32,7 @@ World関連では、VRC Scene DescriptorやUdon BehaviourなどのInspector、SD
 Unityの `Window > Package Manager` を開き、左上の `+` から `Add package from git URL...` を選択して、次のURLを入力します。
 
 ```text
-https://github.com/natade-jp/VRChatSdkUiLocalizer.git
+https://github.com/natade0/VRChatSdkUiLocalizer.git
 ```
 
 本ツールはVRChat SDKに含まれるHarmonyを利用するため、VRChat SDKがインストールされている必要があります。
@@ -64,7 +64,7 @@ Edit
 
 翻訳CSVの作成方法や `Exact`、`Format`、`PartialFormat` などの仕様については、[TRANSLATION.md](TRANSLATION.md)を参照してください。
 
-翻訳されていないUIや追加してほしい翻訳がある場合は、[GitHub Issues](https://github.com/natade-jp/VRChatSdkUiLocalizer/issues)からご連絡ください。
+翻訳されていないUIや追加してほしい翻訳がある場合は、[GitHub Issues](https://github.com/natade0/VRChatSdkUiLocalizer/issues)からご連絡ください。
 
 ## Requirements
 
